@@ -10,7 +10,6 @@ There are mainly three types of Cryptography:
     <li><b>Asymmetric Cryptography</b></li>
     <li><b>Hashing</b></li>
 </ul>
-<br>
 
 <div>
 <h2><b>Symmetric Cryptography</b></h2>
